@@ -1,0 +1,1 @@
+su - betty : Switch user to betty
